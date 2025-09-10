@@ -1,0 +1,14 @@
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Morse Translator.exe
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Morse Translator.deps.json
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Morse Translator.runtimeconfig.json
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Morse Translator.dll
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Morse Translator.pdb
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.AssemblyInfoInputs.cache
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.AssemblyInfo.cs
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.dll
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Morse Translator.dll
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.pdb
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Morse Translator.genruntimeconfig.cache
+C:\Visual Studio 2022 Projects\Made for fun\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Morse Translator.dll

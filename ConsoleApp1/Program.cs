@@ -1,9 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ConsoleApp1.Data;
+using Morse_Translator.Design;
+using Morse_Translator.Menu;
 
-Console.WriteLine("Hello, World!");
-
-
-Morse morse = new Morse();
-Console.WriteLine(morse.ToHumanic(".- ..."));
-Console.WriteLine(morse.ToMorse("as"));
+Background.TurnOn();
+Menu menu = new Menu();
+menu.Inject();

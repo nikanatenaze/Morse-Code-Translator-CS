@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio 2022 Projects\\Made for fun\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Visual Studio 2022 Projects\\Made for fun\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Visual Studio 2022 Projects\\Made for fun\\ConsoleApp1\\ConsoleApp1\\Morse Translator.csproj",
+      "projectName": "Morse Translator",
+      "projectPath": "C:\\Visual Studio 2022 Projects\\Made for fun\\ConsoleApp1\\ConsoleApp1\\Morse Translator.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "C:\\Visual Studio 2022 Projects\\Made for fun\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

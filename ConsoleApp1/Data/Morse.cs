@@ -68,7 +68,7 @@ namespace ConsoleApp1.Data
             if(checkMorse(input))
             {
                 var result = "";
-                var MorseChars = input.Split(' ').ToList();
+                var MorseChars = input.Trim(' ').Split(' ').ToList();
                 foreach (var i in MorseChars)
                 {
                     foreach(var j in Keys.MorseDigits)
